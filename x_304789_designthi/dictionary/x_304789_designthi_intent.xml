@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="intent" max_length="40" name="x_304789_designthi_intent" text_index="true" type="collection"/>
+</database>

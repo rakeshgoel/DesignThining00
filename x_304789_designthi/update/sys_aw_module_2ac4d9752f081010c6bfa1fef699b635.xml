@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Inbox Module Content">62c4d9752f081010c6bfa1fef699b63e</content>
+        <content_attrs/>
+        <content_component display_value="sn-inbox">15415f6bc913d31534330f91530c944c</content_component>
+        <content_tag/>
+        <detail display_value="Inbox Module Detail">6ac4d9752f081010c6bfa1fef699b643</detail>
+        <detail_attrs/>
+        <detail_component display_value="sn-inbox-empty">ee222d2bff222300294153bd6338f113</detail_component>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>inbox-outline</icon>
+        <id>inbox</id>
+        <label>Inbox</label>
+        <order>200</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 23:49:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2ac4d9752f081010c6bfa1fef699b635</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inbox</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DesignThinking" source="x_304789_designthi">f381d9b12f081010c6bfa1fef699b6d1</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="DesignThinking">f381d9b12f081010c6bfa1fef699b6d1</sys_scope>
+        <sys_update_name>sys_aw_module_2ac4d9752f081010c6bfa1fef699b635</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 23:49:25</sys_updated_on>
+        <toolbar_button display_value="Inbox Button">6ec4d9752f081010c6bfa1fef699b635</toolbar_button>
+        <type>master_detail</type>
+        <workspace_config display_value="DesignThinking">c9c455752f081010c6bfa1fef699b627</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=2ac4d9752f081010c6bfa1fef699b635"/>
+</record_update>

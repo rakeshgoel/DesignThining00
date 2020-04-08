@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Delete (people)</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 23:47:50</sys_created_on>
+        <sys_id>db64d1752f081010c6bfa1fef699b656</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (people)</sys_name>
+        <sys_package display_value="DesignThinking" source="x_304789_designthi">f381d9b12f081010c6bfa1fef699b6d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DesignThinking">f381d9b12f081010c6bfa1fef699b6d1</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_db64d1752f081010c6bfa1fef699b656</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 23:47:50</sys_updated_on>
+        <table>x_304789_designthi_people</table>
+        <template/>
+        <type>delete</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=db64d1752f081010c6bfa1fef699b656"/>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>intent Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="intents">0f6491752f081010c6bfa1fef699b6fb</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 23:47:49</sys_created_on>
+        <sys_id>0f6491752f081010c6bfa1fef699b6fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>intent Item Stream Segment</sys_name>
+        <sys_package display_value="DesignThinking" source="x_304789_designthi">f381d9b12f081010c6bfa1fef699b6d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DesignThinking">f381d9b12f081010c6bfa1fef699b6d1</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_0f6491752f081010c6bfa1fef699b6fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 23:47:49</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

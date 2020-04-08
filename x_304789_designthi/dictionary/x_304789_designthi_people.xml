@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="people" max_length="40" name="x_304789_designthi_people" text_index="true" type="collection"/>
+</database>

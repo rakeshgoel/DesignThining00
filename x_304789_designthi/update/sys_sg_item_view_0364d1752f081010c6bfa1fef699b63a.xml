@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="DesignThinking context">0f64d1752f081010c6bfa1fef699b639</data_item>
+        <dependency_fields>state,number,short_description,opened_by,opened_by.avatar,priority</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"CornerRadius":2,"CellId":"state","TextAlignment":"Center","MaxLines":1,"studio_template_field_id":"E1","BackgroundColor":"#f1f1f1","TextColor":"#293e40","Font":{"Weight":"semibold","Size":13},"Text":"","Width":100,"Height":21,"Type":"Text"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"CellId":"number","TextAlignment":"Right","MaxLines":1,"studio_template_field_id":"E2","TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"Text":"","Type":"Text"}],"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Type":"ViewGroup"},{"CellId":"short_description","TextAlignment":"Left","MaxLines":2,"studio_template_field_id":"E3","TextColor":"#293e40","Font":{"Weight":"regular","Size":18},"Text":"","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","TextColor":"#7d8a8c","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"Text":"${opened_by}","Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"opened_by.avatar","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"CellId":"opened_by","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"Text":"","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","TextColor":"#7d8a8c","studio_template_is_label":true,"Font":{"Weight":"regular","Size":13},"Text":"${priority}","Margin":{"Right":8},"Type":"Text"},{"CellId":"priority","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"Text":"","Type":"Text"}],"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Margin":{"Bottom":15,"Top":17},"Type":"ViewGroup"}</item_view_json>
+        <name>context List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-08 23:47:49</sys_created_on>
+        <sys_id>0364d1752f081010c6bfa1fef699b63a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>context List Screen Item View</sys_name>
+        <sys_package display_value="DesignThinking" source="x_304789_designthi">f381d9b12f081010c6bfa1fef699b6d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DesignThinking">f381d9b12f081010c6bfa1fef699b6d1</sys_scope>
+        <sys_update_name>sys_sg_item_view_0364d1752f081010c6bfa1fef699b63a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-08 23:47:49</sys_updated_on>
+        <table>x_304789_designthi_context</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=0364d1752f081010c6bfa1fef699b63a"/>
+</record_update>
